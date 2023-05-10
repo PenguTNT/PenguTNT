@@ -1,2 +1,2 @@
-<img src="https://drive.google.com/drive/recent?q=type:pdf%20type:image"/>
+<img src="https://github.com/PenguTNT/PenguTNT/blob/main/1677078513508.jpg?raw=true"/>
 
